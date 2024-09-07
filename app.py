@@ -133,8 +133,8 @@ elif submit5:
 
 footer = """
 ---
-#### Made By [Chirag Tomar](https://www.linkedin.com/in/chirag-tomar-b94a61229/)
-For Queries, Reach out on [LinkedIn](https://www.linkedin.com/in/chirag-tomar-b94a61229/)  
+#### Made By [Mohit Kasnia](https://www.linkedin.com/in/mohitkasnia9/)
+
 *Resume Expert - Making Job Applications Easier*
 """
 
